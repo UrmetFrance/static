@@ -1,0 +1,136 @@
+###  POLITIQUE DE CONFIDENTIALITE
+
+Politique de confidentialité de URMET
+Votre vie privée nous importe. Il est de la politique de URMET de respecter votre vie privée et de se conformer à toutes les lois et réglementations applicables concernant les informations personnelles que nous pouvons collecter à votre sujet, notamment via notre application Urmet Assist et ses services associés.
+ 
+Les informations personnelles désignent toute information vous concernant qui peut être utilisée pour vous identifier. Cela inclut des informations vous concernant en tant que personne (telles que votre nom, adresse et date de naissance), vos appareils, vos informations de paiement, et même des informations sur la manière dont vous utilisez une application ou un service en ligne.
+ 
+Dans le cas où notre application contient des liens vers des sites et services de tiers, veuillez noter que ces sites et services ont leurs propres politiques de confidentialité. Après avoir suivi un lien vers un contenu tiers, vous devriez lire les informations de leur politique de confidentialité concernant la collecte et l'utilisation des informations personnelles. Cette politique de confidentialité ne s'applique pas à vos activités après avoir quitté notre application.
+ 
+Cette politique est en vigueur à compter du 11 octobre 2024.
+Dernière mise à jour : 11 octobre 2024
+ 
+Informations que nous collectons
+Les informations que nous collectons se divisent en deux catégories : les informations 'fournies volontairement' et les informations 'collectées automatiquement'.
+Les informations 'fournies volontairement' font référence à toute information que vous nous fournissez sciemment et activement lorsque vous utilisez notre application et ses services associés.
+Les informations 'collectées automatiquement' font référence à toute information envoyée automatiquement par votre appareil lors de l'accès à notre application et ses services associés.
+Données de journal
+Lorsque vous accédez à nos serveurs via notre application, nous pouvons automatiquement enregistrer les données standard fournies par votre appareil. Cela peut inclure l'adresse de protocole Internet (IP) de votre appareil, le type et la version de votre appareil, votre activité dans l'application, l'heure et la date, et d'autres détails concernant votre utilisation.
+De plus, lorsque vous rencontrez certaines erreurs lors de l'utilisation de l'application, nous collectons automatiquement des données sur l'erreur et les circonstances entourant son apparition. Ces données peuvent inclure des détails techniques sur votre appareil, ce que vous essayiez de faire lorsque l'erreur s'est produite, et d'autres informations techniques relatives au problème. Il se peut que vous ne soyez pas informé de telles erreurs, même au moment où elles se produisent, qu'elles se sont produites ou de la nature de l'erreur.
+Veuillez noter que bien que ces informations ne soient pas en elles-mêmes des identifiants personnels, il est possible de les combiner avec d'autres données pour identifier personnellement des individus.
+Données de l'appareil
+Notre application peut accéder et collecter des données via les outils intégrés de votre appareil, tels que :
+Caméra
+Calendrier
+Stockage, photos et/ou médias
+Lorsque vous installez l'application ou utilisez les outils de votre appareil dans l'application, nous vous demandons l'autorisation d'accéder à ces informations. Les données spécifiques que nous collectons peuvent dépendre des paramètres individuels de votre appareil et des autorisations que vous accordez lors de l'installation et de l'utilisation de l'application.
+ 
+Informations personnelles
+Nous pouvons vous demander des informations personnelles - par exemple, lorsque vous nous soumettez du contenu ou lorsque vous nous contactez - qui peuvent inclure une ou plusieurs des informations suivantes :
+Nom
+E-mail
+Numéro de téléphone/portable
+Adresse domicile/postale
+ 
+Contenu généré par l'utilisateur
+Nous considérons le 'contenu généré par l'utilisateur' comme des éléments (textes, images et/ou vidéos) fournis volontairement par nos utilisateurs dans le but d'être publiés sur notre plateforme, notre site web ou d'être republiés sur nos réseaux sociaux. Tout contenu généré par l'utilisateur est associé au compte ou à l'adresse e-mail utilisé(e) pour soumettre ce contenu.
+Veuillez noter que tout contenu que vous soumettez dans le but d'être publié sera rendu public après sa publication (et le processus de relecture ou de validation qui suit). Une fois publié, il peut être accessible à des tiers qui ne sont pas couverts par cette politique de confidentialité.
+ 
+Motifs légitimes de traitement de vos informations personnelles
+Nous ne collectons et n'utilisons vos informations personnelles que lorsque nous avons un motif légitime de le faire. Dans ce cas, nous ne collectons que les informations personnelles raisonnablement nécessaires pour vous fournir nos services.
+ 
+Collecte et utilisation des informations
+Nous pouvons collecter des informations personnelles vous concernant lorsque vous effectuez l'une des actions suivantes sur notre site web :
+Créer un compte
+Utiliser un appareil mobile ou un navigateur web pour accéder à notre contenu
+Nous contacter par e-mail, sur les réseaux sociaux ou via toute autre technologie similaire
+Lorsque vous nous mentionnez sur les réseaux sociaux
+Nous pouvons collecter, conserver, utiliser et divulguer des informations dans les buts suivants, et les informations personnelles ne seront pas traitées ultérieurement de manière incompatible avec ces finalités :
+vous fournir les fonctionnalités principales de notre application et de notre plateforme
+vous contacter et communiquer avec vous
+à des fins d'enregistrement interne et de gestion administrative
+pour assurer la sécurité et la prévention de la fraude, et garantir que nos sites et applications sont sûrs, sécurisés et utilisés conformément à nos conditions d'utilisation
+Nous pouvons combiner les informations personnelles fournies volontairement et celles collectées automatiquement avec des informations générales ou des données de recherche que nous recevons d'autres sources fiables. Par exemple, si vous consentez à ce que nous accédions à vos profils de médias sociaux, nous pouvons combiner les informations provenant de ces profils avec les informations que vous nous fournissez directement pour vous offrir une expérience améliorée de notre application et de nos services.
+ 
+Sécurité de vos informations personnelles
+Lorsque nous collectons et traitons des informations personnelles, et pendant que nous conservons ces informations, nous les protégerons de manière commercialement acceptable pour éviter les pertes, les vols ainsi que l'accès non autorisé, la divulgation, la copie, l'utilisation ou la modification.
+Bien que nous fassions de notre mieux pour protéger les informations personnelles que vous nous fournissez, nous vous informons qu'aucune méthode de transmission électronique ou de stockage n'est totalement sécurisée à 100 % et personne ne peut garantir une sécurité absolue des données.
+Vous êtes responsable de la sélection de tout mot de passe et de sa force de sécurité globale, en veillant à la sécurité de vos propres informations dans les limites de nos services. Par exemple, assurez-vous que les mots de passe associés à l'accès à vos informations personnelles et à vos comptes sont sécurisés et confidentiels.
+ 
+Durée de conservation de vos informations personnelles
+Nous conservons vos informations personnelles uniquement pendant la durée nécessaire. Cette période peut dépendre de l'utilisation que nous faisons de vos informations, conformément à cette politique de confidentialité. Par exemple, si vous nous avez fourni des informations personnelles lors de la création d'un compte, nous conserverons ces informations tant que votre compte existera sur notre système. Si vos informations personnelles ne sont plus nécessaires à cette fin, nous les supprimerons ou les rendrons anonymes en supprimant tous les détails qui vous identifient.
+Cependant, si nécessaire, nous pouvons conserver vos informations personnelles pour nous conformer à une obligation légale, comptable ou de déclaration, ou à des fins d'archivage dans l'intérêt public, de recherche scientifique ou historique, ou à des fins statistiques.
+ 
+Confidentialité des enfants
+Aucun de nos produits ou services ne vise directement les enfants de moins de 13 ans et nous ne collectons pas sciemment d'informations personnelles sur les enfants de moins de 13 ans.
+ 
+Transferts internationaux d'informations personnelles
+Les informations personnelles que nous recueillons sont stockées et/ou traitées dans les pays Belgium, France, et Germany, ou dans les pays où nous, nos partenaires, affiliés et prestataires tiers avons des installations.
+Les pays vers lesquels nous stockons, traitons ou transférons vos informations personnelles peuvent ne pas avoir les mêmes lois sur la protection des données que le pays dans lequel vous avez initialement fourni les informations. Si nous transférons vos informations personnelles à des tiers dans d'autres pays : (i) nous effectuerons ces transferts conformément aux exigences de la loi applicable ; et (ii) nous protégerons les informations personnelles transférées conformément à cette politique de confidentialité.
+ 
+Vos droits et le contrôle de vos informations personnelles
+ 
+Votre choix : En nous fournissant des informations personnelles, vous comprenez que nous collecterons, détiendrons, utiliserons et divulguerons vos informations personnelles conformément à cette politique de confidentialité. Vous n'êtes pas obligé de nous fournir des informations personnelles, cependant, si vous ne le faites pas, cela pourrait affecter votre utilisation de notre application ou des produits et/ou services proposés sur celle-ci.
+ 
+Informations provenant de tiers : Si nous recevons des informations personnelles vous concernant d'un tiers, nous les protégerons conformément à cette politique de confidentialité. Si vous êtes un tiers fournissant des informations personnelles concernant une autre personne, vous déclarez et garantissez que vous avez obtenu le consentement de cette personne pour fournir les informations personnelles.
+ 
+Autorisation marketing : Si vous avez précédemment accepté que nous utilisions vos informations personnelles à des fins de marketing direct, vous pouvez changer d'avis à tout moment en nous contactant aux coordonnées fournies ci-dessous.
+ 
+Accès : Vous pouvez demander des détails sur les informations personnelles que nous détenons à votre sujet.
+ 
+Correction : Si vous estimez que les informations que nous détenons à votre sujet sont inexactes, obsolètes, incomplètes, non pertinentes ou trompeuses, veuillez nous contacter en utilisant les coordonnées fournies dans cette politique de confidentialité. Nous prendrons des mesures raisonnables pour corriger toute information jugée inexacte, incomplète, trompeuse ou obsolète.
+ 
+Non-discrimination : Nous ne vous discriminerons pas pour l'exercice de l'un de vos droits sur vos informations personnelles. Sauf si vos informations personnelles sont nécessaires pour vous fournir un service ou une offre particulière (par exemple, fournir un contenu spécifique à votre appareil), nous ne vous refuserons pas de biens ou de services et/ou ne vous facturerons pas des prix ou des tarifs différents pour des biens ou des services, notamment en accordant des remises ou d'autres avantages, ou en imposant des pénalités, ou en vous fournissant un niveau ou une qualité différents de biens ou de services.
+ 
+Notification des violations de données : Nous nous conformerons aux lois qui nous sont applicables en ce qui concerne toute violation de données.
+ 
+Réclamations : Si vous estimez que nous avons enfreint une loi pertinente sur la protection des données et que vous souhaitez déposer une réclamation, veuillez nous contacter en utilisant les coordonnées fournies ci-dessous et nous fournir tous les détails de la violation alléguée. Nous enquêterons rapidement sur votre réclamation et vous répondrons par écrit en vous indiquant le résultat de notre enquête et les mesures que nous prendrons pour traiter votre réclamation. Vous avez également le droit de contacter un organisme de réglementation ou une autorité de protection des données concernant votre réclamation.
+ 
+Désabonnement : Pour vous désabonner de notre base de données d'adresses e-mail ou pour ne plus recevoir de communications (y compris des communications marketing), veuillez nous contacter en utilisant les coordonnées fournies dans cette politique de confidentialité, ou utilisez les moyens de désabonnement fournis dans la communication. Nous pourrions avoir besoin de vous demander des informations spécifiques pour nous aider à confirmer votre identité.
+ 
+Transferts commerciaux
+Si nous ou nos actifs sommes acquis, ou dans le cas peu probable où nous cesserions nos activités ou entrerions en faillite, nous inclurions des données, y compris vos informations personnelles, parmi les actifs transférés à toutes les parties qui nous acquièrent. Vous reconnaissez que de tels transferts peuvent avoir lieu et que toutes les parties qui nous acquièrent peuvent, dans la mesure permise par la loi applicable, continuer à utiliser vos informations personnelles conformément à cette politique, qu'elles seront tenues d'assumer car elle constitue la base de tous les droits de propriété ou d'utilisation que nous avons sur ces informations.
+ 
+Limites de notre politique
+Notre application peut contenir des liens vers des sites externes qui ne sont pas exploités par nos soins. Veuillez noter que nous n'avons aucun contrôle sur le contenu et les politiques de ces sites et que nous ne pouvons être tenus responsables de leurs pratiques de confidentialité respectives.
+ 
+Modifications de cette politique
+À notre discrétion, nous pouvons modifier notre politique de confidentialité pour refléter les mises à jour de nos processus commerciaux, les pratiques acceptables actuelles ou les changements législatifs ou réglementaires. Si nous décidons de modifier cette politique de confidentialité, nous publierons les changements ici and on our website.
+Si les changements sont importants ou si la loi l'exige, nous vous contacterons (en fonction de vos préférences de communication avec nous) ainsi que tous nos utilisateurs enregistrés avec les nouveaux détails et des liens vers la politique mise à jour ou modifiée.
+Si la loi l'exige, nous obtiendrons votre autorisation ou vous donnerons la possibilité de consentir ou de vous désinscrire, le cas échéant, à toute nouvelle utilisation de vos informations personnelles.
+ 
+Informations complémentaires pour la conformité au Règlement général sur la protection des données (RGPD) (UE)
+Responsable du traitement des données / Sous-traitant
+Le RGPD distingue les organisations qui traitent les informations personnelles pour leurs propres objectifs (connues sous le nom de "contrôleurs de données") et les organisations qui traitent les informations personnelles au nom d'autres organisations (connues sous le nom de "processeurs de données"). Nous, URMET, situés à l'adresse fournie dans notre section Contactez-nous, sommes un Contrôleur de données en ce qui concerne les informations personnelles que vous nous fournissez.
+ 
+Fondements juridiques du traitement de vos informations personnelles
+Nous ne collecterons et n'utiliserons vos informations personnelles que lorsque nous aurons un droit légal de le faire. Dans ce cas, nous collecterons et utiliserons vos informations personnelles de manière légale, équitable et transparente. Si nous sollicitons votre consentement pour traiter vos informations personnelles et que vous avez moins de 16 ans, nous solliciterons le consentement de vos parents ou de votre représentant légal pour traiter vos informations personnelles à cette fin spécifique.
+Nos fondements juridiques dépendent des services que vous utilisez et de la manière dont vous les utilisez. Cela signifie que nous ne collectons et n'utilisons vos informations que sur les bases suivantes:
+ 
+Consentement de votre part
+Lorsque vous nous donnez votre consentement pour collecter et utiliser vos informations personnelles à des fins spécifiques. Vous pouvez retirer votre consentement à tout moment en utilisant les moyens que nous fournissons ; toutefois, cela n'affectera pas l'utilisation de vos informations qui a déjà eu lieu. Lorsque vous nous contactez, vous pouvez consentir à l'utilisation de votre nom et de votre adresse e-mail afin que nous puissions répondre à votre demande. Bien que vous puissiez demander la suppression de vos coordonnées de contact à tout moment, nous ne pouvons pas rappeler les e-mails déjà envoyés. Si vous avez des questions supplémentaires sur la manière de retirer votre consentement, n'hésitez pas à nous contacter aux coordonnées fournies dans la section Contactez-nous de cette politique de confidentialité.
+ 
+Exécution d'un contrat ou d'une transaction
+Lorsque vous avez conclu un contrat ou une transaction avec nous, ou pour prendre des mesures préparatoires avant de conclure un contrat ou une transaction avec vous. Par exemple, nous avons besoin d'informations techniques sur votre appareil pour fournir les fonctionnalités essentielles de notre application.
+ 
+Nos intérêts légitimes
+Lorsque nous estimons que cela est nécessaire pour nos intérêts légitimes, tels que la fourniture, le fonctionnement, l'amélioration et la communication de nos services. Par exemple, nous collectons des informations techniques sur votre appareil afin d'améliorer et de personnaliser votre expérience de notre application. Nous considérons que nos intérêts légitimes comprennent la recherche et le développement, la compréhension de notre public, le marketing et la promotion de nos services, les mesures prises pour exploiter nos services de manière efficace, l'analyse marketing et les mesures prises pour protéger nos droits et intérêts légaux.
+ 
+Conformité à la loi
+Dans certains cas, nous pouvons avoir l'obligation légale d'utiliser ou de conserver vos informations personnelles. Ces cas peuvent inclure (sans s'y limiter) les ordonnances judiciaires, les enquêtes criminelles, les demandes gouvernementales et les obligations réglementaires. Si vous avez des questions supplémentaires sur la manière dont nous conservons les informations personnelles pour nous conformer à la loi, n'hésitez pas à nous contacter aux coordonnées fournies dans la section Contactez-nous de cette politique de confidentialité.
+ 
+Transferts internationaux en dehors de l'Espace économique européen (EEE)
+Nous veillerons à ce que tout transfert d'informations personnelles des pays de l'Espace économique européen (EEE) vers des pays hors de l'EEE soit protégé par des garanties appropriées, par exemple en utilisant des clauses contractuelles types approuvées par la Commission européenne, ou par l'utilisation de règles d'entreprise contraignantes ou d'autres moyens légalement acceptés.
+ 
+Vos droits et le contrôle de vos informations personnelles
+ 
+Limitation : Vous avez le droit de demander que nous limitions le traitement de vos informations personnelles si (i) vous êtes préoccupé par l'exactitude de vos informations personnelles, (ii) vous estimez que vos informations personnelles ont été traitées de manière illégale, (iii) vous avez besoin que nous conservions les informations personnelles uniquement aux fins d'une action en justice, ou (iv) nous examinons votre opposition concernant le traitement sur la base de nos intérêts légitimes.
+ 
+Opposition au traitement : Vous avez le droit de vous opposer au traitement de vos informations personnelles qui repose sur nos intérêts légitimes ou l'intérêt public. Si cela est fait, nous devons présenter des motifs légitimes impérieux pour le traitement qui prévalent sur vos intérêts, droits et libertés, afin de poursuivre le traitement de vos informations personnelles.
+ 
+Portabilité des données : Vous pouvez avoir le droit de demander une copie des informations personnelles que nous détenons vous concernant. Dans la mesure du possible, nous vous fournirons ces informations dans un format CSV ou tout autre format machine facilement lisible. Vous pouvez également avoir le droit de demander que nous transférions ces informations personnelles à un tiers.
+ 
+Contactez-nous
+Pour toute question ou préoccupation concernant votre confidentialité, vous pouvez nous contacter en utilisant les coordonnées suivantes :
+
+https://www.urmet.fr/politique-de-confidentialite
